@@ -1,4 +1,4 @@
-# be-productive-beta 🍉
+# beb-productive 
 Stop wasting time, work on yourself 🪶
 
 # How to use (windows 🪟)
